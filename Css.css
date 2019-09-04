@@ -1,0 +1,56 @@
+#Principal{
+    font-family: Arial;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 30px;
+    color: #280;
+}
+#Titulo{
+    font-family: Arial;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 15px;
+    background-color: #fff;
+    text-align: left;
+}
+#Origem{
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 20px;
+    color: #280;
+    background-color: #fff;
+    text-align: left;
+}
+#Resumo{
+    font-family: Arial;
+    font-size: 12px;
+    background-color: #fff;
+    text-align: left;
+}
+#Rodape{
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 11px;
+    text-align: center;
+    background-color: #cfb;
+}
+a:link{
+    color: #0000ff;
+}   
+a:visited{
+    color: #DDC71A;
+}
+a:active{
+    color: #AC0B44;
+}
+a:hover{
+    color: #ff0000;
+    font-weight: bold;
+}
+#Tb1{
+    border-width: 1px;
+    border-color: black;
+    width: 766px;
+    height: 36px;
+    background-color: #000033;
+}
